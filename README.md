@@ -3,11 +3,6 @@
 ### 🌱 Evoluindo em React Js
 <br/>
 
-### "No meio da difilculdade encontra-se a oportunidade."
-#### Albert Einstein
-
-<br/>
-
 ![Kayo GitHub stats](https://github-readme-stats.vercel.app/api?username=kayo-ferreira&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayo-ferreira&layout=compact&theme=dracula)](https://github.com/kayo-ferreira/github-readme-stats)
 
@@ -23,3 +18,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/<+5587996536531>)
 [![LikedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://wa.me/<+5587996536531>)
+<br/>
+
+### "No meio da difilculdade encontra-se a oportunidade."
+#### Albert Einstein
